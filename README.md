@@ -1,2 +1,2 @@
 # AdvanceJava
-Projects check jenkins killed
+Projects check jenkins resolved
