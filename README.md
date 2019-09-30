@@ -1,2 +1,2 @@
 # AdvanceJava
-Projects check jenkins resolved
+Projects check
