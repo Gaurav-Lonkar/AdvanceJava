@@ -1,3 +1,2 @@
 # AdvanceJava
-Projects check
-made chagnes
+Changes made on testbranch will trigger testBranch on parent to child
