@@ -1,2 +1,2 @@
 # AdvanceJava
-Projects check not
+Test triger for parent project.
